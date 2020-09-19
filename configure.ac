@@ -60,6 +60,5 @@ AC_SUBST([XKBCONFIGROOT])
 
 AC_CONFIG_FILES([
 	Makefile
-	man/Makefile
 	xkbcomp.pc])
 AC_OUTPUT
